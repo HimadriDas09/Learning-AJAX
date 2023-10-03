@@ -1,0 +1,18 @@
+.all-para{
+    background-color: aquamarine;
+    color: black;
+}
+
+/* 
+    NOTE : bootstrap uses jQuery
+    jQuery UI, jQuery mobile also exists
+
+    - add 2 classes to an element>
+        addClass("class1 class2");
+
+    - to remove selected elements from HTML using jquery
+        use
+            remove()
+
+    
+*/

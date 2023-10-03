@@ -1,0 +1,1 @@
+learn jquery before AJAX, bcz AJAX uses jquery
